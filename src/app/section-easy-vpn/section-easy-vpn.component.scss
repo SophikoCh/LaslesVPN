@@ -1,0 +1,77 @@
+.container {
+    display: flex;
+    padding: 50px 150px;
+}
+
+.column h1 {
+    width: 555px;
+    height: 140px;
+    top: 206.77px;
+    left: 150px;
+    font-family: "Rubik";
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0B132A;
+}
+
+.column span {
+    font-family: "Rubik";
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.column p {
+    width: 555px;
+    height: 60px;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+    margin-top: 20px;
+}
+
+.column p span {
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+}
+
+.column button {
+    width: 250px;
+    height: 60px;
+    top: 476.77px;
+    left: 150px;
+    border-radius: 10px;
+    background: #F53838;
+    border: none;
+    margin-top: 50px;
+    box-shadow: 2px 25px 35px -19px red;
+}
+
+.column a {
+    color: #fff;
+    width: 95px;
+    height: 25px;
+    top: 494.27px;
+    left: 227.5px;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+

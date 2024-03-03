@@ -1,0 +1,53 @@
+.global-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    width: 383.41px;
+    height: 100px;
+    font-family: "Rubik";
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0B132A;
+    margin-top: 150px;
+}
+
+p {
+    width: 555px;
+    height: 60px;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4F5665;
+    margin-top: 20px;
+}
+
+span {
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.global-header img {
+    margin-top: 155px;
+}
+
+.socials {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 0 auto;
+    width: 1135.64px;
+    height: 208.32px;
+}

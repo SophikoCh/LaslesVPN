@@ -1,0 +1,88 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header h1 {
+    width: 447.81px;
+    height: 100px;
+    font-family: "Rubik";
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0B132A;
+}
+
+.header p {
+    width: 555px;
+    height: 60px;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4F5665;
+
+}
+
+.customers {
+    display: flex;
+    gap: 50px;
+    margin-top: 60px;
+}
+
+.cust-img {
+    display: flex;
+    gap: 20px;
+}
+
+.robert,
+.christy,
+.jou {
+    width: 400px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid #DDDDDD;
+    padding: 30px;
+}
+
+.robert:hover,
+.christy:hover,
+.jou.jou:hover {
+    border: 2px solid #F53838;
+    box-shadow: 0px 10px 20px 0px #0D1025;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.about h3 {
+    width: 142.02px;
+    height: 18px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0B132A;
+}
+
+.about p {
+    width: 127.34px;
+    height: 14px;
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4F5665;
+}

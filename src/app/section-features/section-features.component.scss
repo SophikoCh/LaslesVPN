@@ -1,0 +1,62 @@
+.features {
+    display: flex;
+    gap: 168px;
+    margin: 150px;;
+
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+h1 {
+    width: 383.41px;
+    height: 100px;
+    font-family: "Rubik";
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0B132A;
+
+}
+
+p {
+    width: 427.88px;
+    height: 60px;
+    top: 1134.55px;
+    left: 862.12px;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+}
+
+li {
+    font-family: Rubik;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #4F5665;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}

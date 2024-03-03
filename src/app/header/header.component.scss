@@ -1,0 +1,81 @@
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 150px;
+}
+
+ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    gap: 40px;
+}
+
+li {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+li a {
+    color: #4F5665
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+.registration {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.registration a {
+    color: #4F5665
+}
+
+.registration a:hover {
+    color: #F53855;
+}
+
+.sing-in {
+    width: 53px;
+    height: 19px;
+    top: 58.62px;
+    left: 1057px;
+}
+
+.sing-in span {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sing-up {
+    border: 1px solid #F53855;
+    border-radius: 50px;
+    width: 150px;
+    height: 45px;
+}
+
+.sing-up span {
+    width: 60px;
+    height: 19px;
+    top: 61.62px;
+    left: 1094px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    position: absolute;
+    color: #F53855;
+}
