@@ -10,6 +10,8 @@ import { SectionFeaturesComponent } from './section-features/section-features.co
 import { SectionPlanComponent } from './section-plan/section-plan.component';
 import { SectionGlobalComponent } from './section-global/section-global.component';
 import { SectionFeedbackComponent } from './section-feedback/section-feedback.component';
+import { SectionSubscribtionComponent } from './section-subscribtion/section-subscribtion.component';
+import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,6 +22,8 @@ import { SectionFeedbackComponent } from './section-feedback/section-feedback.co
     SectionPlanComponent,
     SectionGlobalComponent,
     SectionFeedbackComponent,
+    SectionSubscribtionComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,

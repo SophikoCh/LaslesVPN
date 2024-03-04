@@ -1,0 +1,101 @@
+footer {
+    display: flex;
+    background-color: #F8F8F8;
+    height: auto;
+    padding: 70px;
+}
+
+
+.company p {
+    width: 340px;
+    height: 61.57px;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+}
+
+.company span {
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+
+}
+
+.company h5 {
+    width: 132px;
+    height: 30px;
+    color: #AFB5C0;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+.lists {
+    display: flex;
+    gap: 126px;
+    margin-left: 230px;
+}
+
+.product {
+    width: 74px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+li {
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4F5665;
+}
+
+.engage {
+    width: 124px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.earn-money {
+    width: 124px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+li:hover {
+    font-size: larger;
+    color: #0B132A;
+    cursor: pointer;
+}
+
+h4 {
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0B132A;
+
+}

@@ -58,7 +58,12 @@
     background: #F53838;
     border: none;
     margin-top: 50px;
-    box-shadow: 2px 25px 35px -19px red;
+    
+}
+
+.column button:hover {
+    box-shadow: 2px 20px 50px 20px rgba(245, 56, 56, 0.35);
+
 }
 
 .column a {
@@ -74,4 +79,3 @@
     letter-spacing: 0em;
     text-align: left;
 }
-
